@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm awesome! I like long code reviews in darkly lit rooms.  
+
 <!--
 **fredtheranger/fredtheranger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
